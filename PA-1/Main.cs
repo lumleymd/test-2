@@ -126,9 +126,7 @@ namespace PA_1
         /// </summary>
         public void parseJSON()
         {
-           
-            string path = Path.Combine(Path.GetDirectoryName(
-               Assembly.GetExecutingAssembly().Location),"Alarms.txt");
+            string path = Application.StartupPath + "/Alarms.txt";
             StreamReader r = new StreamReader(path);
             
             string s = r.ReadToEnd();
@@ -211,8 +209,7 @@ namespace PA_1
         /// </summary>
         public void write()
         {
-            string path = Path.Combine(Path.GetDirectoryName(
-                Assembly.GetExecutingAssembly().Location), "Alarms.txt");
+            string path = Application.StartupPath + "/Alarms.txt";
             StreamWriter w = new StreamWriter(path);
             string s="";
             foreach(Alarm a in ar)
