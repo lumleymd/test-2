@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 
 using System.Threading;
+using System.Reflection;
 
 namespace PA_1
 {
@@ -125,8 +126,10 @@ namespace PA_1
         /// </summary>
         public void parseJSON()
         {
-
-            StreamReader r = new StreamReader("Alarms.txt");
+           
+            string path = Path.Combine(Path.GetDirectoryName(
+               Assembly.GetExecutingAssembly().Location),"Alarms.txt");
+            StreamReader r = new StreamReader(path);
             
             string s = r.ReadToEnd();
             if (s != "")
@@ -208,8 +211,9 @@ namespace PA_1
         /// </summary>
         public void write()
         {
-            
-            StreamWriter w = new StreamWriter("Alarms.txt");
+            string path = Path.Combine(Path.GetDirectoryName(
+                Assembly.GetExecutingAssembly().Location), "Alarms.txt");
+            StreamWriter w = new StreamWriter(path);
             string s="";
             foreach(Alarm a in ar)
             {
