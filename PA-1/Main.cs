@@ -126,7 +126,7 @@ namespace PA_1
         /// </summary>
         public void parseJSON()
         {
-            string path = Application.StartupPath + "/Alarms.txt";
+            string path = Application.StartupPath + "/alarms.txt";
             StreamReader r = new StreamReader(path);
             
             string s = r.ReadToEnd();
@@ -209,7 +209,7 @@ namespace PA_1
         /// </summary>
         public void write()
         {
-            string path = Application.StartupPath + "/Alarms.txt";
+            string path = Application.StartupPath + "/alarms.txt";
             StreamWriter w = new StreamWriter(path);
             string s="";
             foreach(Alarm a in ar)
@@ -238,7 +238,7 @@ namespace PA_1
        /// </summary>
         public void checkAlarms()
         {
-            Thread.Sleep(1);
+            Thread.Sleep(3);
             while (true)
             {
 
