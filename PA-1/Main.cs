@@ -238,7 +238,7 @@ namespace PA_1
        /// </summary>
         public void checkAlarms()
         {
-            Thread.Sleep(1);
+            Thread.Sleep(3);
             while (true)
             {
 
