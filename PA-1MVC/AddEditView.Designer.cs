@@ -103,12 +103,7 @@ namespace PA_1MVC
         PA_1MVC.Sounds.Circuit,
         PA_1MVC.Sounds.Reflection};
             this.combo_Box.FormattingEnabled = true;
-            this.combo_Box.Items.AddRange(new object[] {
-            PA_1MVC.Sounds.Radar,
-            PA_1MVC.Sounds.Beacon,
-            PA_1MVC.Sounds.Chimes,
-            PA_1MVC.Sounds.Circuit,
-            PA_1MVC.Sounds.Reflection});
+          
             this.combo_Box.Location = new System.Drawing.Point(217, 35);
             this.combo_Box.Name = "combo_Box";
             this.combo_Box.Size = new System.Drawing.Size(166, 24);

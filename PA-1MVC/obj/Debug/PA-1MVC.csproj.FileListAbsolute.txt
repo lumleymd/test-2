@@ -10,3 +10,15 @@ D:\501 Projects\PA-1\project-01-lumleymd\PA-1MVC\obj\Debug\PA-1MVC.csproj.Genera
 D:\501 Projects\PA-1\project-01-lumleymd\PA-1MVC\obj\Debug\PA-1MVC.csproj.CoreCompileInputs.cache
 D:\501 Projects\PA-1\project-01-lumleymd\PA-1MVC\obj\Debug\PA-1MVC.exe
 D:\501 Projects\PA-1\project-01-lumleymd\PA-1MVC\obj\Debug\PA-1MVC.pdb
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\bin\Debug\PA-1MVC.exe.config
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\bin\Debug\PA-1MVC.exe
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\bin\Debug\PA-1MVC.pdb
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA-1MVC.csproj.AssemblyReference.cache
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA-1MVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA_1MVC.AddEditView.resources
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA_1MVC.MainView.resources
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA_1MVC.Properties.Resources.resources
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA-1MVC.csproj.GenerateResource.cache
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA-1MVC.csproj.CoreCompileInputs.cache
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA-1MVC.exe
+C:\Users\lumle\Source\Repos\projec\PA-1MVC\obj\Debug\PA-1MVC.pdb
