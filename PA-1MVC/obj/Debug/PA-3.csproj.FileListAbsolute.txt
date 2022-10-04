@@ -1,0 +1,12 @@
+C:\Users\lumle\Source\Repos\project\PA-1MVC\bin\Debug\PA-1MVC.exe.config
+C:\Users\lumle\Source\Repos\project\PA-1MVC\bin\Debug\PA-1MVC.exe
+C:\Users\lumle\Source\Repos\project\PA-1MVC\bin\Debug\PA-1MVC.pdb
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA-3.csproj.AssemblyReference.cache
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA_1MVC.AddEditView.resources
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA_1MVC.MainView.resources
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA_1MVC.Properties.Resources.resources
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA-3.csproj.GenerateResource.cache
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA-3.csproj.CoreCompileInputs.cache
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA-1MVC.exe
+C:\Users\lumle\Source\Repos\project\PA-1MVC\obj\Debug\PA-1MVC.pdb
